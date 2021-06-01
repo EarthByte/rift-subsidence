@@ -1,0 +1,78 @@
+{
+    "Info" : "This file must be a valid json file. You may go https://jsonformatter.curiousconcept.com/ to validate the json file.",
+
+    "PLABEL" : "sunrise",
+    "PLABEL_DESC" : "Label -- a name for this run, the output will be saved in {PLABEL}.dat",
+    
+    "IRIFT" : 1,
+    "IRIFT_DESC" : "1, 2, or 3 periods of rifting",
+    
+    "TC" : 30000.0,
+    "TC_DESC" : "Initial Cont. crustal thickness (m)",
+    
+    "TBEG1" : 110.0,
+    "TBEG1_DESC" : "start of first rifting period",
+
+    "TEND1" : 90.0,
+    "TEND1_DESC" : "end of first rifting period",
+
+    "BETMIN" : 1.1,
+    "BETMIN_DESC" : "minimum value of BETA",
+
+    "BETMAX" : 1.301,
+    "BETMAX_DESC" : "maximum value of BETA",
+
+    "BETINC" : 0.1,
+    "BETINC_DESC" : "increment in BETA",
+
+    "ITYPE1" : 1,
+    "ITYPE1_DESC" : "strain rate for first rift period",
+
+    "CYCLES" : 1.5,
+    "CYCLES_DESC" : "CYCLES",
+
+    "FRAC" : 0.8,
+    "FRAC_DESC" : "FRAC",
+
+    "TBEG2" : 60.0,
+    "TBEG2_DESC" : "start of second rifting period",
+
+    "TEND2" : 50.0,
+    "TEND2_DESC" : "end of second rifting period",
+
+    "BETA2" : 1.1,
+    "BETA2_DESC" : "BETA for second rifting phase",
+
+    "ITYPE2" : 1,
+    "ITYPE2_DESC" : "strain rate for second rift period",
+
+    "TBEG3" : 20.0,
+    "TBEG3_DESC" : "start of third rifting period",
+
+    "TEND3" : 10.0,
+    "TEND3_DESC" : "end of third rifting period",
+
+    "BETA3" : 1.1,
+    "BETA3_DESC" : "BETA for third rifting phase",
+
+    "ITYPE3" : 1,
+    "ITYPE3_DESC" : "strain rate for third rift period",
+
+    "TSTOP" : 0.0,
+    "TSTOP_DESC" : "final time",
+
+    "ILOAD" : 1,
+    "ILOAD_DESC" : "loading (0=air, 1=water, 2=sediments)",
+
+    "ICOMP" : 0,
+    "ICOMP_DESC" : "Is compaction required? 0 == no, 1 == yes",
+
+    "RHOS" : 2.6,
+    "RHOS_DESC" : "if not compaction, Solid sediment density. if compaction, Sediment density",
+
+    "PHI0" : 0.6,
+    "PHI0_DESC" : "Initial porosity (between 0 and 0.9)",
+    
+    "CONST" : 2.0,
+    "CONST_DESC" : "Depth constant, LAMBDA"
+}
