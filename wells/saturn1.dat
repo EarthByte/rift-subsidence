@@ -1,0 +1,23 @@
+# SiteLatitude = -19.9086
+# SiteLongitude = 114.9460
+# SurfaceAge = 0.0000
+#
+## bottom_age bottom_depth min_water_depth max_water_depth lithology
+   5.000      1663.000     1000.000        1200.000        Shale           0.01       Limestone       0.99      
+   8.500      1705.000     1000.000        1200.000        Shale           0.02       Limestone       0.98      
+   11.800     1731.000     1000.000        1200.000        Shale           0.02       Limestone       0.98      
+   15.500     1815.000     800.000         1100.000        Shale           0.02       Limestone       0.98      
+   38.000     1989.000     600.000         900.000         Shale           0.02       Limestone       0.98      
+   63.500     2487.000     300.000         700.000         Shale           0.05       Limestone       0.95      
+   65.000     2527.000     200.000         500.000         Shale           0.10       Limestone       0.90      
+   66.000     2592.000     200.000         500.000         Shale           0.09       Limestone       0.91      
+   74.000     2706.000     100.000         500.000         Shale           0.18       Limestone       0.82      
+   92.000     2812.500     100.000         200.000         Shale           0.06       Limestone       0.94      
+   102.500    2832.000     75.000          400.000         Shale           0.13       Limestone       0.87      
+   112.000    2867.500     0.000           100.000         Shale           0.10       Limestone       0.90      
+   135.000    2916.000     75.000          300.000         Shale           0.28       Sand            0.72      
+   145.000    2984.000     0.000           100.000         Shale           0.48       Sand            0.52      
+   152.000    3022.000     75.000          300.000         Shale           0.47       Sand            0.53      
+   203.700    3207.000     0.000           75.000          Shale           0.30       Limestone       0.35       Sand            0.35      
+   208.300    3536.000     0.000           50.000          Shale           0.38       Limestone       0.02       Sand            0.60      
+   210.000    4000.000     0.000           50.000          Shale           0.41       Limestone       0.01       Sand            0.58      

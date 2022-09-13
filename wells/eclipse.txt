@@ -1,0 +1,11 @@
+# SiteLatitude = -12.2715
+# SiteLongitude = 124.6188
+# SurfaceAge = 0.0000
+#
+## bottom_age bottom_depth min_water_depth max_water_depth lithology
+   24.000     778.000      0.000           100.000         Shale           0.10       Limestone       0.70       Sand            0.20      
+   55.000     1308.000     0.000           100.000         Shale           0.10       Limestone       0.65       Sand            0.25      
+   65.000     1916.000     0.000           100.000         Shale           0.10       Limestone       0.20       Sand            0.70      
+   100.000    2321.000     20.000          200.000         Shale           0.70       Limestone       0.15       Sand            0.15      
+   146.000    2573.000     20.000          200.000         Shale           0.70       Sand            0.30      
+   195.000    2994.000     -10.000         20.000          Shale           0.30       Sand            0.70      
